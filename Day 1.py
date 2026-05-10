@@ -1,0 +1,7 @@
+print("Hello world")
+name=input("Enter your name:")
+city=input("Enter your city:")
+age=int(input("Enter your age:"))
+fav_food=input("Enter your Favourite Food:")
+fav_number=int(input("Enter your Favourite number:"))
+print(name, "from", city, "is", age,"and", "likes", fav_food ,"and", fav_number)
