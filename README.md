@@ -7,5 +7,5 @@ Daily Python practice from basics to projects.
 - Day 3: Conditionals
 - Day 4: Functions
 - Day 5: Lists & Slicing
-- Day 6 : List Inbuilt Methods
+- Day 6 : List Inbuilt Methods and small tasks performed from what i learned
 
