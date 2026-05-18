@@ -9,4 +9,6 @@ Daily Python practice from basics to projects.
 - Day 5: Lists & Slicing
 - Day 6 : List Inbuilt Methods and small tasks performed from what i learned
 - Day 7 : Python String Introduction
+- Day 8: Python String Methods
+- Day 9: String Checking methods and small tasks
 
