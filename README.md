@@ -12,4 +12,5 @@ Daily Python practice from basics to projects.
 - Day 8: Python String Methods
 - Day 9: String Checking methods and performed some small tasks 
 - Day 10: Python Strings Interview based Problems and performed some small tasks 
+- Day 11: Python String Based Medium Level Problems 
 
