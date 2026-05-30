@@ -15,3 +15,4 @@ Daily Python practice from basics to projects.
 - Day 11: Python String Based Medium Level Problems 
 - Day 12: Interview Based Coding Practice
 - Day 13: Two sum and some revision of previous Coding
+- Day 14: Array Introduction and Basics
