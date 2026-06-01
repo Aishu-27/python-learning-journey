@@ -1,1 +1,36 @@
+# Largest Element
+arr=[10,25,7,89,45]
+big=arr[0]
+for i in arr:
+    if i > big:
+        big = i
+print("The Largest Element in array:",big)
 
+# Smallest Element
+small=arr[0]
+for i in arr:
+    if i < small:
+        small = i
+print("The Smallest Element in array:",small)
+
+# Sum of Elements and Average of Elements
+total = 0
+for i in arr:
+    total += i
+print("The sum of Elements in array:",total)
+avg=len(arr)
+avg = total / avg
+print("Average of array Elements:",avg)
+
+
+# Odd and Even numbers
+odd=0
+even = 0
+for i in arr:
+    if i % 2 == 0:
+        even += 1
+    else:
+        odd += 1
+        
+print("Even:",even)
+print("Odd:",odd)
