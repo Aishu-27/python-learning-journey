@@ -17,3 +17,4 @@ Daily Python practice from basics to projects.
 - Day 13: Two sum and some revision of previous Coding
 - Day 14: Array Introduction and Basics
 - Day 15: Array Problems Practice
+- Day 16: Array Revision
