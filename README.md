@@ -19,4 +19,5 @@ Daily Python practice from basics to projects.
 - Day 15: Array Problems Practice
 - Day 16: Array Revision
 - Day 17: Python
+- Day 18: Python
   
