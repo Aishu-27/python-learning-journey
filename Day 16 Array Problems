@@ -1,1 +1,20 @@
+# Second Largest Element in Array
+arr=[12,3,45,67,8,90] 
+large = float('-inf')
+second= float('-inf')
+for i in arr:
+    if i > large:
+        second = large
+        large = i
+    elif i > second and i != large:
+        second = i
+print("Largest Number in Array:",large)
+print("Second Number in Array:",second)
+
+# Reverse an Array
+print(arr[::-1])
+
+#Sort the Array element
+sort=sorted(arr)
+print(sort)
 
