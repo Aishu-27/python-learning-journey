@@ -20,4 +20,6 @@ Daily Python practice from basics to projects.
 - Day 16: Array Revision
 - Day 17: Python
 - Day 18: Python
+- Day 19: Will Updated soon
+- Day 20: Will Updated Soon
   
